@@ -1,4 +1,5 @@
-package com.calculadora;
+// package com.calculadora;
+package com.leonelrivas.calculadorarn;
 
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
 
@@ -12,7 +13,7 @@ import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.config.ReactFeatureFlags;
 import com.facebook.soloader.SoLoader;
-import com.calculadora.newarchitecture.MainApplicationReactNativeHost;
+import com.leonelrivas.calculadorarn.newarchitecture.MainApplicationReactNativeHost;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 
